@@ -1,4 +1,4 @@
-=== Destroy this site ===
+=== Shoot the zombie ===
 
 Requires at least: 3.0
 
