@@ -4,6 +4,7 @@ jQuery(document).ready(function () {
     shootAudio.setAttribute('src', '/wp-content/plugins/shoot-the-zombie/assets/shot.mp3');
 	var bodycount = 0;
 	var shotsFired = 0;
+	//test
 
     jQuery("#shootthezombie").click(function () {
 		shotsFired--;
