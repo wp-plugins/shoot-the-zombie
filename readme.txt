@@ -1,5 +1,7 @@
 === Destroy this site ===
 
+Contributors: axelmolokini
+
 Requires at least: 3.0
 
 Tested up to: 4.1
